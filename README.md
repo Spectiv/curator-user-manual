@@ -4,6 +4,9 @@ This manual aims to assist and instruct you in the operation of your Curator Sys
 ## Table of Contents
 1. [Powering Up Your Curator System](#powering-up-your-curator-system)
 1. [Powering Down Your Curator System](#powering-down-your-curator-system)
+1. [Switching Pods to Gameplay](#switching-pods-to-gameplay)
+1. [Miscellaneous](#miscellaneous)
+1. [Troubleshooting](#troubleshooting)
 
 ## Powering Up Your Curator System
 1. Locate the `Display Power` button within the iPad app and press it once.
@@ -17,7 +20,7 @@ This manual aims to assist and instruct you in the operation of your Curator Sys
 1. Scroll down in the app and verify that all displays are red.
 1. If you have any issues, go to [Troubleshooting](#powering-down)
 
-## Switchting Pods to Gameplay
+## Switching Pods to Gameplay
 1. Press the `Pods to Gameplay` button within the iPad app.
 2. If you have any issues, jump to [troubleshooting](#pods-to-gameplay)
 
