@@ -1,0 +1,19 @@
+{
+  "name": "curator-user-manual",
+  "version": "1.0.0",
+  "description": "This manual aims to assist and instruct you in the operation of your Curator System.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euroclydon37/curator-user-manual.git"
+  },
+  "author": "Jeremy Dunn and Jared Lankford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euroclydon37/curator-user-manual/issues"
+  },
+  "homepage": "https://github.com/euroclydon37/curator-user-manual#readme"
+}
